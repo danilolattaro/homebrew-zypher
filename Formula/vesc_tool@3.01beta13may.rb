@@ -1,9 +1,9 @@
 class VescToolAT301beta < Formula
   desc "This is a GUI written using the Qt toolkit to configure the VESC motor controller"
   homepage "http://vesc-project.com/"
-  url "https://github.com/vedderb/vesc_tool.git",
+  url "https://github.com/danilolattaro/vesc_tool.git",
 		:branch => "dev_ver_3_01"
-  head "https://github.com/vedderb/vesc_tool.git"
+  head "https://github.com/danilolattaro/vesc_tool.git"
   version "3.01beta"
   license "GPL-3.0"
 
