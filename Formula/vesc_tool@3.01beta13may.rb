@@ -1,4 +1,4 @@
-class VescToolAT301beta13May < Formula
+class VescToolAT301beta13may < Formula
   desc "This is a GUI written using the Qt toolkit to configure the VESC motor controller"
   homepage "http://vesc-project.com/"
   url "https://github.com/danilolattaro/vesc_tool.git",
